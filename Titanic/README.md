@@ -3,7 +3,7 @@
 # Titanic - Machine Learning from Disaster
 
 
-This is my first submission for Kaggle Competitions which I placed in the top $15\%$ ($2,279/15,254$) with an submission accuracy score of $78\%$.
+This is my first submission for Kaggle Competitions which I placed in the top $15$ % ($2,279/15,254$) with an submission accuracy score of $78$ %.
 
 Performing analysis on this Classic Titanic Dataset required:
 - EDA on the different given feature sets

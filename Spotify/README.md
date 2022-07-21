@@ -11,7 +11,7 @@ Mainly show interesting trends of #1 hit songs spot on spotify. I also showed ho
 ## Interesting Charts Made
 
 
-- $\# 1$ songs over time
+- \# $1$ songs over time
 - Spotify region breakdown
   - Bar chart over time
   - bar chart Year 2017
